@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Estudante+de+TI+%7C+Dev+em+Forma%C3%A7%C3%A3o;Buscando+Est%C3%A1gio+em+Desenvolvimento;Apaixonada+por+Web+%26+Dados+%F0%9F%92%9C;Transformando+Ideias+em+C%C3%B3digo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Estudante+de+TI+%7C+Dev+em+Forma%C3%A7%C3%A3o;Apaixonada+por+Web+%26+Dados+%F0%9F%92%9C;Transformando+Ideias+em+C%C3%B3digo+%F0%9F%9A%80;Sempre+em+Evolu%C3%A7%C3%A3o+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,21 +24,23 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Sobre Mim
 
-Olá! Sou a **Luisa Campanha**, estudante universitária apaixonada por tecnologia e em busca da minha primeira oportunidade como **estagiária em TI**. 🚀
+Olá! Sou a **Luisa Campanha**, uma desenvolvedora em formação apaixonada por criar soluções tecnológicas que fazem a diferença. 🚀
 
-Atualmente estou me aprofundando em **Desenvolvimento Web Fullstack** e **Análise de Dados**, através de cursos intensivos e projetos práticos. Meu objetivo é transformar conhecimento em soluções reais e impactantes!
+Minha jornada no mundo da tecnologia começou com a curiosidade de entender como as coisas funcionam, e hoje me dedico intensamente ao **Desenvolvimento Web Fullstack** e **Análise de Dados**. Acredito que código é uma forma de arte, e dados contam histórias poderosas.
 
-### 🎯 Meu Foco Atual
+💡 **Minha missão:** Combinar criatividade com lógica para construir aplicações que sejam não apenas funcionais, mas também elegantes e intuitivas.
 
-- 🔭 Aprofundando conhecimentos em **React** e **Node.js**
-- 🌱 Estudando **Análise de Dados** com **Python**
-- 👯 Buscando **estágio** para aplicar conhecimentos na prática
-- 💡 Desenvolvendo projetos para fortalecer portfólio
-- 📫 Aberta a **colaborações** e **networking**
+### 🎯 Atualmente estou:
 
-### 💼 O que ofereço
+- 🔭 Dominando **React** e **Node.js** para desenvolvimento fullstack moderno
+- 🌱 Explorando o poder dos dados com **Python**, **Pandas** e **SQL**
+- 💡 Construindo projetos reais para solidificar meu conhecimento prático
+- 📫 Sempre aberta a **colaborações**, **networking** e novas oportunidades
+- 🎨 Estudando princípios de **UI/UX** para criar interfaces incríveis
 
-✨ **Dedicação** | 🔥 **Vontade de Aprender** | 🎯 **Foco em Resultados** | 🤝 **Trabalho em Equipe**
+### 💼 Soft Skills
+
+✨ **Proatividade** • 🔥 **Aprendizado Rápido** • 🎯 **Orientada a Resultados** • 🤝 **Comunicação Clara** • 🧩 **Resolução de Problemas**
 
 <br clear="both">
 
@@ -91,13 +93,13 @@ Atualmente estou me aprofundando em **Desenvolvimento Web Fullstack** e **Análi
 <br>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisaCampanhaH&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisaCampanhaH&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaCampanhaH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisaCampanhaH&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaCampanhaH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisaCampanhaH&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
 </p>
 
 </details>
@@ -106,7 +108,7 @@ Atualmente estou me aprofundando em **Desenvolvimento Web Fullstack** e **Análi
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisaCampanhaH&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuisaCampanhaH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 </details>
 
@@ -152,7 +154,7 @@ Atualmente estou me aprofundando em **Desenvolvimento Web Fullstack** e **Análi
 
 <div align="center">
 
-### 💜 _"O único modo de fazer um excelente trabalho é amar o que você faz"_ - Steve Jobs
+### 💜 _"A tecnologia move o mundo, mas são as pessoas que movem a tecnologia"_
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
