@@ -24,35 +24,21 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Sobre Mim
 
-```typescript
-const luisa = {
-    pronouns: "ela/dela",
-    role: "Estudante & Dev em Formação",
-    location: "Brasil 🇧🇷",
-    education: "Universitária - TI",
-    currentFocus: ["Web Development", "Data Analysis"],
-    
-    skills: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "React"],
-        backend: ["Node.js", "PHP", "Java", "Python"],
-        database: ["MySQL", "SQL"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-    
-    interests: ["💻 Coding", "📊 Data Science", "🎨 UI/UX", "📚 Learning"],
-    motto: "Aprender, Criar e Evoluir todos os dias! 🚀"
-};
-```
+Olá! Sou a **Luisa Campanha**, estudante universitária apaixonada por tecnologia e em busca da minha primeira oportunidade como **estagiária em TI**. 🚀
 
-<br>
+Atualmente estou me aprofundando em **Desenvolvimento Web Fullstack** e **Análise de Dados**, através de cursos intensivos e projetos práticos. Meu objetivo é transformar conhecimento em soluções reais e impactantes!
 
-### 🎯 Objetivos Atuais
+### 🎯 Meu Foco Atual
 
 - 🔭 Aprofundando conhecimentos em **React** e **Node.js**
 - 🌱 Estudando **Análise de Dados** com **Python**
 - 👯 Buscando **estágio** para aplicar conhecimentos na prática
 - 💡 Desenvolvendo projetos para fortalecer portfólio
 - 📫 Aberta a **colaborações** e **networking**
+
+### 💼 O que ofereço
+
+✨ **Dedicação** | 🔥 **Vontade de Aprender** | 🎯 **Foco em Resultados** | 🤝 **Trabalho em Equipe**
 
 <br clear="both">
 
@@ -144,7 +130,7 @@ const luisa = {
 
 <div align="center">
 
-## 📬 Contatos
+## 📬 Vamos Conectar?
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
