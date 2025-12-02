@@ -134,7 +134,6 @@ Minha jornada no mundo da tecnologia começou com a curiosidade de entender como
 
 ## 📬 Vamos Conectar?
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
 <br><br>
 
@@ -143,7 +142,10 @@ Minha jornada no mundo da tecnologia começou com a curiosidade de entender como
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisaCampanhaH)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/LuisaCampanhaH)
 
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
 <br>
+
 
 ### 💬 Estou sempre aberta para:
 🤝 Networking Profissional | 💼 Oportunidades de Estágio | 🚀 Projetos Colaborativos | 📚 Troca de Conhecimento
