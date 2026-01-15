@@ -1,7 +1,6 @@
 <div align="center">
 
-# 💫 Bem-vindo ao meu universo digital
-
+# 💫 Bem-vindo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=180&section=header&text=Luisa%20Campanha&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 </div>
