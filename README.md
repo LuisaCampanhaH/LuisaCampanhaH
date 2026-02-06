@@ -107,8 +107,7 @@ Minha jornada no mundo da tecnologia começou com a curiosidade de entender como
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisaCampanhaH&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=LuisaCampanhaH&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies">
 </details>
 
 </div>
