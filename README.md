@@ -74,13 +74,13 @@ Currently focused on mastering the modern fullstack: **TypeScript, React/Next.js
 <div align="center">
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=50fa7b&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisaCampanhaH&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=50fa7b&currStreakLabel=D4AF37" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisaCampanhaH&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 </p>
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaCampanhaH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisaCampanhaH&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=D4AF37&line=50fa7b&point=FFFFFF" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisaCampanhaH&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=D4AF37&line=D4AF37&point=D4AF37" />
 </p>
 
 </div>
