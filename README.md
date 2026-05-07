@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0-1a0a2e,50-16213e,100-0f3460&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=d4af37&desc=Fullstack%20Developer&descAlignY=58&descSize=22&descColor=50fa7b" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0-061006,50-0a1a0a,100-0d1f0d&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=d4af37&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=d4af37" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=650&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;CS+Student+%7C+Fullstack+Developer+in+the+Making;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-🇧🇷 Brazilian developer based in Belo Horizonte &nbsp;•&nbsp; 
+🇧🇷 Brazilian developer based in Belo Horizonte &nbsp;•&nbsp; 🌍 Eyes set on Canada & Europe
 
 </div>
 
@@ -115,7 +115,7 @@ Currently focused on mastering the modern fullstack: **TypeScript, React/Next.js
 
 *"Code is where logic meets creativity."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0-0f3460,50-16213e,100-1a0a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0-0d1f0d,50-0a1a0a,100-061006&height=100&section=footer" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=d4af37&style=for-the-badge&label=VISITORS)
 
