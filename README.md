@@ -14,7 +14,7 @@ Brazilian developer based in Belo Horizonte &nbsp;
 
 I'm **Luisa Campanha**, a fullstack developer in training passionate about building things that actually work — from the database all the way to the UI. I believe well-written code is code that others can read, maintain, and evolve.
 
-Currently focused on mastering the modern fullstack: **TypeScript, React/Next.js, Node.js, Spring Boot** and data analysis with **Python**. Actively looking for internship opportunities in tech — banking, fintech, or multinational companies.
+Currently focused on mastering the modern fullstack: **TypeScript, React/Next.js, Node.js, Spring Boot** and data analysis with **Python**. 
 
 <br>
 
