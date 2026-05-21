@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Fullstack+Developer+%7C+CS+Student;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Brazilian developer based in Belo Horizonte &nbsp;
+Brazilian developer
+&nbsp;
 
 </div>
 
