@@ -26,7 +26,6 @@ Currently focused on mastering the modern fullstack: **TypeScript, React/Next.js
 | 🌱 **Learning** | System Design, Docker, AWS, Clean Architecture & SOLID |
 | 🎯 **Goal** | Tech internship — banking, fintech or multinational |
 | 📍 **Based in** | Belo Horizonte, Brazil |
-| 🌍 **Looking ahead** | Working abroad — Canada or Europe |
 | 💬 **Languages** | Portuguese (native) • English (advancing) |
 
 ---
