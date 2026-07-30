@@ -88,7 +88,7 @@ Soluções para problemas de programação competitiva e entrevistas técnicas, 
 <div align="center">
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisaCampanhaH&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 </p>
 </div>
 
