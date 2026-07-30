@@ -49,7 +49,7 @@ Dispensador inteligente de medicamentos integrado a um ecossistema de monitorame
 
 ### 🧠 [MindGraph](https://github.com/LuisaCampanhaH/MindGraph)
 Ferramenta interativa de mapa mental rodando direto no navegador, para construir e explorar grafos de conceitos — sem instalação, sem backend, sem conta necessária.
-`JavaScript` · [🔗 Demo ao vivo]([https://github.com/LuisaCampanhaH/MindGraph](https://luisacampanhah.github.io/MindGraph/))
+`JavaScript` · [🔗 Demo ao vivo](https://github.com/LuisaCampanhaH/MindGraph)
 
 ### 🧩 [Algorithm-Challenges](https://github.com/LuisaCampanhaH/Algorithm-Challenges)
 Soluções para problemas de programação competitiva e entrevistas técnicas, implementadas em múltiplas linguagens para explorar diferentes abordagens e trade-offs de performance.
@@ -92,6 +92,16 @@ Soluções para problemas de programação competitiva e entrevistas técnicas, 
 </p>
 </div>
 
+### 🐍 Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuisaCampanhaH/LuisaCampanhaH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisaCampanhaH/LuisaCampanhaH/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LuisaCampanhaH/LuisaCampanhaH/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
 ---
 ---
 
@@ -127,7 +137,7 @@ A smart medication dispenser integrated with a caregiver monitoring ecosystem �
 
 ### 🧠 [MindGraph](https://github.com/LuisaCampanhaH/MindGraph)
 An interactive, browser-based mind mapping tool for building and exploring concept graphs — no installation, no backend, no account required.
-`JavaScript` · [🔗 Live Demo]([https://github.com/LuisaCampanhaH/MindGraph](https://luisacampanhah.github.io/MindGraph/))
+`JavaScript` · [🔗 Live Demo](https://github.com/LuisaCampanhaH/MindGraph)
 
 ### 🧩 [Algorithm-Challenges](https://github.com/LuisaCampanhaH/Algorithm-Challenges)
 Solutions to competitive programming and technical interview problems, implemented across multiple languages to explore different approaches and performance trade-offs.
