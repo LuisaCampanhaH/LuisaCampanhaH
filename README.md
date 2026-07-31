@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:7c3aed,100:c026d3&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:15803d,100:22c55e&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Fullstack+Developer+%7C+CS+Student;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Fullstack+Developer+%7C+CS+Student;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 &nbsp;
 
 <a href="#-sobre-mim">🇧🇷 Português</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#-about-me">🇺🇸 English</a>
 
 <!-- 🔧 TODO: troque o link abaixo pelo seu currículo (PDF no Drive, ou link do seu site) -->
-[![Resume](https://img.shields.io/badge/📄_Resume-7c3aed?style=for-the-badge&logoColor=white)]([https://your-resume-link-here.com](https://luisacampanhah.github.io/resume/))
+[![Resume](https://img.shields.io/badge/📄_Resume-15803d?style=for-the-badge&logoColor=white)]([https://your-resume-link-here.com](https://luisacampanhah.github.io/resume/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-campanha-b54700364/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campanhaluisa@gmail.com)
 
@@ -41,7 +41,7 @@ Sou **Luisa Campanha**, estudante do 4º período de Ciência da Computação na
 ### 🔩 [RV32_monocycle_processor](https://github.com/LuisaCampanhaH/RV32_monocycle_processor)
 Implementação de um processador RISC-V de 32 bits (RV32I) com arquitetura monociclo — cada instrução executa em exatamente um ciclo de clock. Cobertura funcional de 100% da ISA.
 
-![Verilog](https://img.shields.io/badge/HDL-Verilog-B366F6?style=flat-square) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-000000?style=flat-square)
+![Verilog](https://img.shields.io/badge/HDL-Verilog-15803d?style=flat-square) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-000000?style=flat-square)
 
 ### 💊 [Hackathon-MediSync](https://github.com/LuisaCampanhaH/Hackathon-MediSync)
 Dispensador inteligente de medicamentos integrado a um ecossistema de monitoramento para cuidadores — hardware ESP32, app em React Native e API em Node.js. Projeto do Hackathon PUC Minas 2026, onde atuei como coordenadora técnica de hardware.
@@ -95,7 +95,7 @@ Soluções para problemas de juízes online (BeeCrowd), organizadas por platafor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Hardware & Dados**
-![Verilog](https://img.shields.io/badge/Verilog-B366F6?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-15803d?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -109,8 +109,8 @@ Soluções para problemas de juízes online (BeeCrowd), organizadas por platafor
 
 <div align="center">
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=A78BFA&text_color=FFFFFF" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=dracula&hide_border=true&background=0D1117&ring=7c3aed&fire=C026D3&currStreakLabel=A78BFA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=34D399&text_color=FFFFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=dracula&hide_border=true&background=0D1117&ring=15803d&fire=22C55E&currStreakLabel=34D399" />
 </p>
 </div>
 
@@ -151,7 +151,7 @@ I'm **Luisa Campanha**, a 4th-semester Computer Science student at **PUC Minas**
 ### 🔩 [RV32_monocycle_processor](https://github.com/LuisaCampanhaH/RV32_monocycle_processor)
 A 32-bit RISC-V (RV32I) single-cycle processor implementation, where each instruction executes in exactly one clock cycle. 100% functional ISA coverage.
 
-![Verilog](https://img.shields.io/badge/HDL-Verilog-B366F6?style=flat-square) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-000000?style=flat-square)
+![Verilog](https://img.shields.io/badge/HDL-Verilog-15803d?style=flat-square) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-000000?style=flat-square)
 
 ### 💊 [Hackathon-MediSync](https://github.com/LuisaCampanhaH/Hackathon-MediSync)
 A smart medication dispenser integrated with a caregiver monitoring ecosystem — ESP32 hardware, a React Native app, and a Node.js API. Built at PUC Minas Hackathon 2026, where I served as technical hardware lead.
@@ -199,8 +199,8 @@ Solutions to online judge problems (BeeCrowd), organized by platform and difficu
 
 *"Code is where logic meets creativity."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,50:7c3aed,100:4338ca&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:15803d,100:064e3b&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=7c3aed&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=15803d&style=for-the-badge&label=VISITORS)
 
 </div>
