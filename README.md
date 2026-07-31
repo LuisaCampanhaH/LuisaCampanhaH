@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b1e,35:1f6feb,70:2d7a2d,100:d4af37&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:7c3aed,100:c026d3&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Fullstack+Developer+%7C+CS+Student;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Fullstack+Developer+%7C+CS+Student;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 &nbsp;
 
 <a href="#-sobre-mim">🇧🇷 Português</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#-about-me">🇺🇸 English</a>
 
 <!-- 🔧 TODO: troque o link abaixo pelo seu currículo (PDF no Drive, ou link do seu site) -->
-[![Resume](https://img.shields.io/badge/📄_Resume-d4af37?style=for-the-badge&logoColor=white)](https://your-resume-link-here.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-7c3aed?style=for-the-badge&logoColor=white)](https://your-resume-link-here.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-campanha-b54700364/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campanhaluisa@gmail.com)
 
@@ -75,6 +75,7 @@ Soluções para problemas de juízes online (BeeCrowd), organizadas por platafor
 
 **Bacharelado em Ciência da Computação** — PUC Minas *(2025 – Atual)*
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -108,8 +109,8 @@ Soluções para problemas de juízes online (BeeCrowd), organizadas por platafor
 
 <div align="center">
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=1f6feb&text_color=FFFFFF" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=radical&hide_border=true&background=0D1117&ring=1f6feb&fire=D4AF37&currStreakLabel=D4AF37" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=C026D3&icon_color=A78BFA&text_color=FFFFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=dracula&hide_border=true&background=0D1117&ring=7c3aed&fire=C026D3&currStreakLabel=A78BFA" />
 </p>
 </div>
 
@@ -198,8 +199,8 @@ Solutions to online judge problems (BeeCrowd), organized by platform and difficu
 
 *"Code is where logic meets creativity."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:2d7a2d,100:1f6feb&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c026d3,50:7c3aed,100:4338ca&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=1f6feb&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=7c3aed&style=for-the-badge&label=VISITORS)
 
 </div>
