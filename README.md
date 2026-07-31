@@ -9,7 +9,7 @@
 <a href="#-sobre-mim">🇧🇷 Português</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="#-about-me">🇺🇸 English</a>
 
 <!-- 🔧 TODO: troque o link abaixo pelo seu currículo (PDF no Drive, ou link do seu site) -->
-[![Resume](https://img.shields.io/badge/📄_Resume-15803d?style=for-the-badge&logoColor=white)]([https://your-resume-link-here.com](https://luisacampanhah.github.io/resume/))
+[![Resume](https://img.shields.io/badge/📄_Resume-15803d?style=for-the-badge&logoColor=white)]([https://your-resume-link-here.com]([https://luisacampanhah.github.io/resume/](https://luisacampanhah.github.io/resume/)))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-campanha-b54700364/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:campanhaluisa@gmail.com)
 
