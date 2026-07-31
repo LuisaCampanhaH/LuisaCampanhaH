@@ -74,7 +74,6 @@ Soluções para problemas de juízes online (BeeCrowd), organizadas por platafor
 ## 🎓 Formação
 
 **Bacharelado em Ciência da Computação** — PUC Minas *(2025 – Atual)*
-Melhores desempenhos: Cálculo II (91) · Arquitetura de Computadores II (90) · Lab. Iniciação à Programação (89) · Arquitetura de Computadores I (83)
 
 ---
 
@@ -184,7 +183,6 @@ Solutions to online judge problems (BeeCrowd), organized by platform and difficu
 ## 🎓 Education
 
 **B.Sc. in Computer Science** — PUC Minas *(2025 – Present)*
-Top grades: Calculus II (91) · Computer Architecture II (90) · Intro to Programming Lab (89) · Computer Architecture I (83)
 
 ---
 
