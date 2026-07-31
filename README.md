@@ -30,7 +30,6 @@ Sou **Luisa Campanha**, estudante do 4º período de Ciência da Computação na
 | 🔭 **Construindo** | Projetos fullstack com Next.js + Node.js + PostgreSQL |
 | 🌱 **Aprendendo** | System Design, Docker, AWS, Clean Architecture & SOLID |
 | 🔬 **Pesquisando** | IA Generativa e modelagem conceitual (Human-in-the-Loop) — PUC Minas |
-| 🌍 **Aberta a** | Estágios remotos ou internacionais em empresas de tecnologia |
 | 📍 **Localização** | Belo Horizonte, Brasil |
 | 💬 **Idiomas** | Português (nativo) • Inglês (avançado) • Espanhol (intermediário) |
 
@@ -140,7 +139,6 @@ I'm **Luisa Campanha**, a 4th-semester Computer Science student at **PUC Minas**
 | 🔭 **Building** | Fullstack projects with Next.js + Node.js + PostgreSQL |
 | 🌱 **Learning** | System Design, Docker, AWS, Clean Architecture & SOLID |
 | 🔬 **Researching** | Generative AI & conceptual modeling (Human-in-the-Loop) — PUC Minas |
-| 🌍 **Open to** | Remote or international tech internships |
 | 📍 **Based in** | Belo Horizonte, Brazil |
 | 💬 **Languages** | Portuguese (native) • English (advanced) • Spanish (intermediate) |
 
