@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0-0a1f0a,50-1a4a1a,100-2d7a2d&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=d4af37&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=d4af37" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b1e,35:1f6feb,70:2d7a2d,100:d4af37&height=200&section=header&text=Luisa%20Campanha&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=22&descColor=ffffff" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;Fullstack+Developer+%7C+CS+Student;Python+%7C+Java+%7C+TypeScript+%7C+Node.js;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -19,9 +19,7 @@
 
 ## 🇧🇷 Sobre Mim
 
-Sou **Luisa Campanha**, estudante de Ciência da Computação e desenvolvedora fullstack em formação. Gosto de entender sistemas de ponta a ponta — do processador que executa a instrução até a interface que o usuário vê — e construo desde ferramentas de front-end até hardware simulado em Verilog.
-
-Atualmente aprofundando **TypeScript, React/Next.js, Node.js, Spring Boot**, System Design e Docker/AWS.
+Sou **Luisa Campanha**, estudante do 4º período de Ciência da Computação na **PUC Minas** e desenvolvedora fullstack em formação. Gosto de entender sistemas de ponta a ponta — do processador que executa a instrução até a interface que o usuário vê — e construo desde ferramentas de front-end até hardware simulado em Verilog. Atualmente também sou pesquisadora de Iniciação Científica em **IA Generativa aplicada à modelagem conceitual**.
 
 <br>
 
@@ -31,29 +29,52 @@ Atualmente aprofundando **TypeScript, React/Next.js, Node.js, Spring Boot**, Sys
 |---|---|
 | 🔭 **Construindo** | Projetos fullstack com Next.js + Node.js + PostgreSQL |
 | 🌱 **Aprendendo** | System Design, Docker, AWS, Clean Architecture & SOLID |
+| 🔬 **Pesquisando** | IA Generativa e modelagem conceitual (Human-in-the-Loop) — PUC Minas |
 | 🌍 **Aberta a** | Estágios remotos ou internacionais em empresas de tecnologia |
 | 📍 **Localização** | Belo Horizonte, Brasil |
-| 💬 **Idiomas** | Português (nativo) • Inglês (avançado) |
+| 💬 **Idiomas** | Português (nativo) • Inglês (avançado) • Espanhol (intermediário) |
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### 🔩 [RV32_monocycle_processor](https://github.com/LuisaCampanhaH/RV32_monocycle_processor)
-Implementação de um processador RISC-V de 32 bits (RV32I) com arquitetura monociclo — cada instrução executa em exatamente um ciclo de clock.
-`Verilog` · Arquitetura de Computadores
+Implementação de um processador RISC-V de 32 bits (RV32I) com arquitetura monociclo — cada instrução executa em exatamente um ciclo de clock. Cobertura funcional de 100% da ISA.
+
+![Verilog](https://img.shields.io/badge/HDL-Verilog-B366F6?style=flat-square) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-000000?style=flat-square)
 
 ### 💊 [Hackathon-MediSync](https://github.com/LuisaCampanhaH/Hackathon-MediSync)
-Dispensador inteligente de medicamentos integrado a um ecossistema de monitoramento para cuidadores — hardware ESP32, app em React Native e API em Node.js trabalhando juntos para reduzir doses perdidas e erros de dosagem.
-`ESP32` · `React Native` · `Node.js` · Projeto de Hackathon
+Dispensador inteligente de medicamentos integrado a um ecossistema de monitoramento para cuidadores — hardware ESP32, app em React Native e API em Node.js. Projeto do Hackathon PUC Minas 2026, onde atuei como coordenadora técnica de hardware.
+
+![ESP32](https://img.shields.io/badge/Hardware-ESP32-000000?style=flat-square) ![React Native](https://img.shields.io/badge/App-React_Native-61DAFB?style=flat-square) ![Node.js](https://img.shields.io/badge/API-Node.js-339933?style=flat-square)
+
+**[🌐 Landing Page](https://luisacampanhah.github.io/Hackathon-MediSync/)** · **[📱 Abrir o App](https://hackathon-medi-sync.vercel.app/)**
 
 ### 🧠 [MindGraph](https://github.com/LuisaCampanhaH/MindGraph)
 Ferramenta interativa de mapa mental rodando direto no navegador, para construir e explorar grafos de conceitos — sem instalação, sem backend, sem conta necessária.
-`JavaScript` · [🔗 Demo ao vivo](https://github.com/LuisaCampanhaH/MindGraph)
+
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square) ![Canvas](https://img.shields.io/badge/Rendering-HTML5_Canvas-E34F26?style=flat-square)
+
+**[🌐 Demo ao vivo](https://luisacampanhah.github.io/MindGraph/)**
 
 ### 🧩 [Algorithm-Challenges](https://github.com/LuisaCampanhaH/Algorithm-Challenges)
-Soluções para problemas de programação competitiva e entrevistas técnicas, implementadas em múltiplas linguagens para explorar diferentes abordagens e trade-offs de performance.
-`C` · Estruturas de Dados & Algoritmos
+Soluções para problemas de juízes online (BeeCrowd), organizadas por plataforma e nível de dificuldade — prática contínua de lógica, estruturas de dados e algoritmos.
+
+![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square) ![BeeCrowd](https://img.shields.io/badge/Judge-BeeCrowd-DC3545?style=flat-square)
+
+---
+
+## 🏆 Prêmios
+
+| | |
+|---|---|
+| 🥇 | **Melhor Trabalho Interdisciplinar** — Front-End (2025) |
+| 🥈 | **Finalista, Trabalho Interdisciplinar** — Back-End (2025) |
+
+## 🎓 Formação
+
+**Bacharelado em Ciência da Computação** — PUC Minas *(2025 – Atual)*
+Melhores desempenhos: Cálculo II (91) · Arquitetura de Computadores II (90) · Lab. Iniciação à Programação (89) · Arquitetura de Computadores I (83)
 
 ---
 
@@ -73,7 +94,8 @@ Soluções para problemas de programação competitiva e entrevistas técnicas, 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Dados & Infra**
+**Hardware & Dados**
+![Verilog](https://img.shields.io/badge/Verilog-B366F6?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -87,8 +109,8 @@ Soluções para problemas de programação competitiva e entrevistas técnicas, 
 
 <div align="center">
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuisaCampanhaH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=1f6feb&text_color=FFFFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=LuisaCampanhaH&theme=radical&hide_border=true&background=0D1117&ring=1f6feb&fire=D4AF37&currStreakLabel=D4AF37" />
 </p>
 </div>
 
@@ -107,9 +129,7 @@ Soluções para problemas de programação competitiva e entrevistas técnicas, 
 
 ## 🇺🇸 About Me
 
-I'm **Luisa Campanha**, a Computer Science student and fullstack developer in training. I like understanding systems end-to-end — from the processor executing an instruction to the interface the user sees — and I build everything from front-end tools to simulated hardware in Verilog.
-
-Currently deepening my skills in **TypeScript, React/Next.js, Node.js, Spring Boot**, System Design, and Docker/AWS.
+I'm **Luisa Campanha**, a 4th-semester Computer Science student at **PUC Minas** and a fullstack developer in training. I like understanding systems end-to-end — from the processor executing an instruction to the interface the user sees — and I build everything from front-end tools to simulated hardware in Verilog. I'm also currently an undergraduate researcher working on **Generative AI applied to conceptual modeling**.
 
 <br>
 
@@ -119,29 +139,52 @@ Currently deepening my skills in **TypeScript, React/Next.js, Node.js, Spring Bo
 |---|---|
 | 🔭 **Building** | Fullstack projects with Next.js + Node.js + PostgreSQL |
 | 🌱 **Learning** | System Design, Docker, AWS, Clean Architecture & SOLID |
+| 🔬 **Researching** | Generative AI & conceptual modeling (Human-in-the-Loop) — PUC Minas |
 | 🌍 **Open to** | Remote or international tech internships |
 | 📍 **Based in** | Belo Horizonte, Brazil |
-| 💬 **Languages** | Portuguese (native) • English (advanced) |
+| 💬 **Languages** | Portuguese (native) • English (advanced) • Spanish (intermediate) |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔩 [RV32_monocycle_processor](https://github.com/LuisaCampanhaH/RV32_monocycle_processor)
-A 32-bit RISC-V (RV32I) single-cycle processor implementation, where each instruction executes in exactly one clock cycle.
-`Verilog` · Computer Architecture
+A 32-bit RISC-V (RV32I) single-cycle processor implementation, where each instruction executes in exactly one clock cycle. 100% functional ISA coverage.
+
+![Verilog](https://img.shields.io/badge/HDL-Verilog-B366F6?style=flat-square) ![RISC-V](https://img.shields.io/badge/ISA-RV32I-000000?style=flat-square)
 
 ### 💊 [Hackathon-MediSync](https://github.com/LuisaCampanhaH/Hackathon-MediSync)
-A smart medication dispenser integrated with a caregiver monitoring ecosystem — ESP32 hardware, a React Native app, and a Node.js API working together to reduce missed doses and dosing errors.
-`ESP32` · `React Native` · `Node.js` · Hackathon Project
+A smart medication dispenser integrated with a caregiver monitoring ecosystem — ESP32 hardware, a React Native app, and a Node.js API. Built at PUC Minas Hackathon 2026, where I served as technical hardware lead.
+
+![ESP32](https://img.shields.io/badge/Hardware-ESP32-000000?style=flat-square) ![React Native](https://img.shields.io/badge/App-React_Native-61DAFB?style=flat-square) ![Node.js](https://img.shields.io/badge/API-Node.js-339933?style=flat-square)
+
+**[🌐 Landing Page](https://luisacampanhah.github.io/Hackathon-MediSync/)** · **[📱 Open the App](https://hackathon-medi-sync.vercel.app/)**
 
 ### 🧠 [MindGraph](https://github.com/LuisaCampanhaH/MindGraph)
 An interactive, browser-based mind mapping tool for building and exploring concept graphs — no installation, no backend, no account required.
-`JavaScript` · [🔗 Live Demo](https://github.com/LuisaCampanhaH/MindGraph)
+
+![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square) ![Canvas](https://img.shields.io/badge/Rendering-HTML5_Canvas-E34F26?style=flat-square)
+
+**[🌐 Live Demo](https://luisacampanhah.github.io/MindGraph/)**
 
 ### 🧩 [Algorithm-Challenges](https://github.com/LuisaCampanhaH/Algorithm-Challenges)
-Solutions to competitive programming and technical interview problems, implemented across multiple languages to explore different approaches and performance trade-offs.
-`C` · Data Structures & Algorithms
+Solutions to online judge problems (BeeCrowd), organized by platform and difficulty — ongoing practice in logic, data structures, and algorithms.
+
+![C](https://img.shields.io/badge/Language-C-00599C?style=flat-square) ![BeeCrowd](https://img.shields.io/badge/Judge-BeeCrowd-DC3545?style=flat-square)
+
+---
+
+## 🏆 Awards
+
+| | |
+|---|---|
+| 🥇 | **Best Interdisciplinary Project** — Front-End (2025) |
+| 🥈 | **Finalist, Interdisciplinary Project** — Back-End (2025) |
+
+## 🎓 Education
+
+**B.Sc. in Computer Science** — PUC Minas *(2025 – Present)*
+Top grades: Calculus II (91) · Computer Architecture II (90) · Intro to Programming Lab (89) · Computer Architecture I (83)
 
 ---
 
@@ -157,8 +200,8 @@ Solutions to competitive programming and technical interview problems, implement
 
 *"Code is where logic meets creativity."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0-0d3a0d,50-1a4a1a,100-0a2a0a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:2d7a2d,100:1f6feb&height=100&section=footer" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=d4af37&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=LuisaCampanhaH&color=1f6feb&style=for-the-badge&label=VISITORS)
 
 </div>
