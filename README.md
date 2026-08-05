@@ -19,7 +19,7 @@
 
 ## 🇧🇷 Sobre Mim
 
-Sou **Luisa Campanha**, estudante do 4º período de Ciência da Computação na **PUC Minas** e desenvolvedora fullstack em formação. Gosto de entender sistemas de ponta a ponta — do processador que executa a instrução até a interface que o usuário vê — e construo desde ferramentas de front-end até hardware simulado em Verilog. Atualmente também sou pesquisadora de Iniciação Científica em **IA Generativa aplicada à modelagem conceitual**.
+Sou **Luisa Campanha**, estudante do 4º período de Ciência da Computação na **PUC Minas** e desenvolvedora fullstack em formação. Gosto de entender sistemas de ponta a ponta, do processador que executa a instrução até a interface que o usuário vê, e construo desde ferramentas de front-end até hardware simulado em Verilog. Atualmente também sou pesquisadora de Iniciação Científica em **IA Generativa aplicada à modelagem conceitual**.
 
 <br>
 
