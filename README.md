@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Luisa Campanha - CS Student | Systems, Security & AI Research" width="100%" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=1000&color=34D399&center=true&vCenter=true&repeat=true&width=800&lines=Hey+there%2C+I'm+Luisa!+%F0%9F%91%8B%F0%9F%8F%BB;CS+Student+%7C+Systems%2C+Security+%26+AI+Research;Python+%7C+Java+%7C+C+%7C+Verilog;Building+the+future+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 &nbsp;
