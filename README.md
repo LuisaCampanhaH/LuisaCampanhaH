@@ -158,4 +158,40 @@ I'm an undergraduate researcher in **Generative AI applied to conceptual modelin
 | | |
 |---|---|
 | 🔭 **Building** | **Sphere-M**, a knowledge-graph construction tool (undergraduate research) <br> **Bug Bounty**, an educational cybersecurity app built with Flutter |
-|
+| 🌱 **Learning** | System Design, Docker, AWS, Linux, Python for Data |
+| 🔬 **Researching** | Generative AI & conceptual modeling (Human-in-the-Loop) — PUC Minas |
+| 📍 **Based in** | Belo Horizonte, Brazil |
+| 💬 **Languages** | Portuguese (native) • English (advanced) • Spanish (intermediate) |
+
+## 🚀 Featured Projects
+
+- 🕸️ **[Sphere-M](https://github.com/LuisaCampanhaH/Sphere-M)**: a tool for manually building knowledge graphs (ontologies), guided by a method that connects concepts through "ceiling" and "floor" poles. My undergraduate research project, with a canvas-based web interface.
+- 🛡️ **Child Biometric Protection on Edge Devices: A Unified Architecture Against Deepfakes**: a scientific paper co-authored with Karen Cristina Satiro da Costa (PUC Minas), proposing the "Biometric Firewall", an edge-device architecture with four defense layers: Data Poisoning, Blind Computer Vision, Voice Anonymization, and Inference-Time Noise Addition. An architectural proposal with conceptual validation, not yet a tested implementation.
+- 🕵️ **Bug Bounty**: an educational, gamified app that teaches cybersecurity and programming logic. The player is a "digital mercenary" investigating security flaws in fictional companies (SQL Injection, XSS, IDOR, and social engineering). Interdisciplinary Project IV, with an adaptive AI that adjusts difficulty to the player's performance.
+- 💊 **[Hackathon-MediSync](https://github.com/LuisaCampanhaH/Hackathon-MediSync)**: a smart medication dispenser integrated with a caregiver monitoring ecosystem (ESP32 hardware, React Native app, Node.js API). Built at PUC Minas Hackathon 2026, where I served as technical hardware lead. [Landing page](https://luisacampanhah.github.io/Hackathon-MediSync/) · [Open the app](https://hackathon-medi-sync.vercel.app/)
+- 🔩 **[RV32_monocycle_processor](https://github.com/LuisaCampanhaH/RV32_monocycle_processor)**: a 32-bit RISC-V (RV32I) single-cycle processor, where each instruction executes in exactly one clock cycle. 100% functional ISA coverage.
+- 🧠 **[MindGraph](https://github.com/LuisaCampanhaH/MindGraph)**: an interactive, browser-based mind mapping tool for building and exploring concept graphs, with no installation, backend, or account. [Live demo](https://luisacampanhah.github.io/MindGraph/)
+- 🧩 **Ongoing practice**: online judge problems (BeeCrowd) in C for logic, data structures, and algorithms: [Algorithm-Challenges](https://github.com/LuisaCampanhaH/Algorithm-Challenges).
+
+## 🏆 Awards
+
+| | |
+|---|---|
+| 🥇 | **Best Interdisciplinary Project** — Front-End (2025) |
+| 🥈 | **Finalist, Interdisciplinary Project** — Back-End (2025) |
+
+## 🎓 Education
+
+**B.Sc. in Computer Science** — PUC Minas *(2025 – Present)*
+
+</details>
+
+---
+
+<div align="center">
+
+*"Code is where logic meets creativity."*
+
+<img src="./assets/footer.svg" alt="" width="100%" />
+
+</div>
