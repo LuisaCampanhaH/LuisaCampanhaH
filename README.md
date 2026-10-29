@@ -43,11 +43,6 @@ Ferramenta para construção manual de grafos de conhecimento (ontologias), guia
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square) ![JavaScript](https://img.shields.io/badge/Interface-JavaScript-F7DF1E?style=flat-square) ![NetworkX](https://img.shields.io/badge/Graphs-NetworkX-013243?style=flat-square) ![Pyvis](https://img.shields.io/badge/Viz-Pyvis-4f46e5?style=flat-square) ![Canvas](https://img.shields.io/badge/Interface-Canvas-E34F26?style=flat-square)
 
-### 🛡️ Proteção Biométrica Infantil em Dispositivos de Borda: Uma Arquitetura Unificada contra Deepfakes
-Artigo científico em coautoria com Karen Cristina Satiro da Costa (PUC Minas), propondo o "Firewall Biométrico": uma arquitetura em dispositivo de borda com quatro camadas de defesa — Data Poisoning, Visão Computacional Cega, Anonimização Vocal e Inference-Time Noise Addition. Proposta arquitetural com validação conceitual, ainda sem implementação testada.
-
-<!-- TODO: adicionar link do PDF do artigo -->
-
 ### 🕵️ Bug Bounty
 <!-- TODO: transformar o título em link quando o repositório estiver público -->
 App educativo que ensina cibersegurança e lógica de programação de forma gamificada: o jogador é um "mercenário digital" que investiga falhas de segurança em empresas fictícias (SQL Injection, XSS, IDOR e engenharia social). Trabalho Interdisciplinar IV, com IA adaptativa que ajusta a dificuldade ao desempenho do jogador.
